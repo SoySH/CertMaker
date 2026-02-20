@@ -1,3 +1,5 @@
+[![Ask DeepWiki](https://deepwiki.com/badge.svg)](https://deepwiki.com/SoySH/CertMaker)
+
 ## 🖥 Compilación desde código fuente
 
 ### Windows
